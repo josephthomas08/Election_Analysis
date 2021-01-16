@@ -13,6 +13,14 @@ In this project, our final Python script should be able to deliver the following
 4. Percentage of votes each candidate won
 5. The winner of the election based on popular vote
 
+## Election Audit
+In addition to the above deatiled request Election Commission has requested us to provide additional data to complete the audit of the election results.
+
+The additional data requested were 
+      1. The voter turnout for each county 
+      2. The Percentage of votes from each county out of the total count
+      3. The county with the highest turnout.
+
 ## Resources
 Data set provided in CSV format
 Python 3.7.6 version was used for this project
@@ -24,7 +32,7 @@ The analysis of the election shows that :
       1. Candidate #1 :Charles Casper Stockham
       2. Candidate #2 :Diana DeGette
       3. Candidate #3 :Raymon Anthony Doane
-3. Totoal number of votes each cnadiate won were :
+3. Total number of votes each candiate won were :
 
       Charles Casper Stockham: 85,213
       Diana DeGette: 272,892
@@ -38,6 +46,26 @@ The analysis of the election shows that :
       
       
 5. the winner of the election was Diana with vote in favor for her counted as 272,892.
+
+## Election Audit results
+
+The additional data requested for final audit of elction results Election commision requeste details about the following are attached in our resources in text format and pdf for ease of understanding. 
+      1. the largest turnover of voters and percentage  was in the Denver county
+      2.  The Voter turn out and percentage  in each county is as detailed below
+            1. Jefferson: 10.5% ( 38,855 votes)
+            2. Denver: 82.8% (306,055 votes)
+            3. Arapahoe: 6.7% (24,801 votes)
+  
+  
+  ## Election AUdit SUmmary 
+  From the above we can understand that Denver is much more informed in the importance of voting in elections and bringing the right candidate to serve the county and bring in informed changes required for the counties.
+  
+  The details provided will help leaders, senate, election commission know which countries will need more of public awareness to go out and vote for contructive changes in the counties which will impac their nation.
+  
+  
+  ## note 
+  Text file and image of data requested is provided in the resource.
+      
 
 
 ## Challenge overview 
