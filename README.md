@@ -17,6 +17,7 @@ In this project, our final Python script should be able to deliver the following
 In addition to the above deatiled request Election Commission has requested us to provide additional data to complete the audit of the election results.
 
 The additional data requested were 
+
     *  1. The voter turnout for each county 
     *  2. The Percentage of votes from each county out of the total count
     *  3. The county with the highest turnout.
@@ -56,10 +57,9 @@ The additional data requested for final audit of elction results Election commis
             * 1. Jefferson: 10.5% ( 38,855 votes)
            *  2. Denver: 82.8% (306,055 votes)
            *  3. Arapahoe: 6.7% (24,801 votes)
-           
-           
-           Resources/challenge#3.Deliverable #1..png
-           
+        
+      <img width="484" alt="challenge#3 Deliverable #1" src="https://user-images.githubusercontent.com/75267605/104859427-4a31b180-58f3-11eb-8670-22c8bc6a2f6b.png">
+     
   
   
   ## Election Audit Summary 
