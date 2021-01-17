@@ -61,11 +61,13 @@ The analysis of the election shows that :
 ## Election Audit results
 
 The additional data requested for final audit of elction results Election commision requeste details about the following are attached in our resources in text format and pdf for ease of understanding. 
-      1. the largest turnover of voters and percentage  was in the Denver county
-      2.  The Voter turn out and percentage  in each county is as detailed below
-            * 1. Jefferson: 10.5% ( 38,855 votes)
-           *  2. Denver: 82.8% (306,055 votes)
-           *  3. Arapahoe: 6.7% (24,801 votes)
+
+      ### The largest turnover of voters and percentage  was in the Denver county
+      ### The Voter turn out and percentage  in each county is as detailed below
+      
+            *1. Jefferson: 10.5% ( 38,855 votes)
+            *2. Denver: 82.8% (306,055 votes)
+            *3. Arapahoe: 6.7% (24,801 votes)
            
            
            
