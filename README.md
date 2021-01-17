@@ -58,7 +58,8 @@ The additional data requested for final audit of elction results Election commis
            *  2. Denver: 82.8% (306,055 votes)
            *  3. Arapahoe: 6.7% (24,801 votes)
         
-   https://user-images.githubusercontent.com/75267605/104859427-4a31b180-58f3-11eb-8670-22c8bc6a2f6b.png
+ <img width="484" alt="challenge#3 Deliverable #1" src="https://user-images.githubusercontent.com/75267605/104859427-4a31b180-58f3-11eb-8670-22c8bc6a2f6b.png">
+
      
   
   
