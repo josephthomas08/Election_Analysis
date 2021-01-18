@@ -89,9 +89,9 @@ The additional data requested for final audit of elction results Election commis
 
 It was great challenge to automate the election_results with Tom and Seth with the help of python and looking forward to working with them to provide better and faster dashboard view on on future results.
 
-         1. Obeservation :01 The lower voter turnout in Jefferson and Arapahoe demonstrates the citizens negligence on their basic obligagtion and rights to come out  and vote. 
-         2. Observation #2 This could be for two reasons either they dont have any trust on the leaders or they are not comfortable to spend long hours on election booth.
-         3. Observation #3 In this age of connectivty Election commission should look into secure emerging technolgies to increase the foot print of larger voter percentage by                 enabling online secure voting through blockhain, AI and other available technologies.
+1. The lower voter turnout in Jefferson and Arapahoe demonstrates the citizens negligence on their basic obligagtion and rights to come out  and vote. 
+2. This could be for two reasons either they dont have any trust on the leaders or they are not comfortable to spend long hours on election booth.
+3. In this age of connectivty Election commission should look into secure emerging technolgies to increase the foot print of larger voter percentage by enabling online secure voting through blockhain, AI and other available technologies.
 
 
   ## Note 
